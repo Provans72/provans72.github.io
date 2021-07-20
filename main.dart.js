@@ -18945,7 +18945,7 @@ return $.amY()},
 a2G:function a2G(){},
 abN:function(){var s=0,r=P.a4(t.z),q,p=2,o,n=[],m,l,k
 var $async$abN=P.a0(function(a,b){if(a===1){o=b
-s=p}while(true)switch(s){case 0:l=P.akF("https","provans-b2b.ru:44344","/OBSH_Test/hs/order_exchange/test",null)
+s=p}while(true)switch(s){case 0:l=P.akF("https","provans-b2b.ru:44344","/OBSH2/hs/order_exchange/test",null)
 p=4
 s=7
 return P.a7(G.az4(l).C_(0,P.cr(0,0,10)),$async$abN)
@@ -18976,7 +18976,7 @@ case 3:if(!d){q=null
 s=1
 break}p=new O.rT(P.aO(t.Gf))
 p.b=!0
-o=P.akF("https","provans-b2b.ru:44344","/OBSH_Test/hs/order_exchange/"+a,null)
+o=P.akF("https","provans-b2b.ru:44344","/OBSH2/hs/order_exchange/"+a,null)
 if(b!=null){q=p.oK("POST",o,null,C.ar.L5(b,null),null)
 s=1
 break}else{q=p.I8("GET",o,null)
